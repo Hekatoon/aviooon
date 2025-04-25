@@ -32,5 +32,6 @@ jobs:
       - name: Upload artifact
         uses: ./upload-artifact-3.2.1
         with:
-          name: choix_cocktails_macos
+          name: macosbundle
           path: ChoixCocktails-macos.zip
+
