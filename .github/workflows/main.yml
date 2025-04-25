@@ -1,6 +1,7 @@
 name: Build macOS App
 
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -29,7 +30,7 @@ jobs:
           ditto -c -k --sequesterRsrc --keepParent dist/Choix_cocktails.app ChoixCocktails-macos.zip
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3  # ou @v3.1.3
+        uses: ./.github/actions/upload-artifact
         with:
           name: choix-cocktails-macos
           path: ChoixCocktails-macos.zip
