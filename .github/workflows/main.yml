@@ -1,4 +1,4 @@
-name: Build macOS App
+name: Build & Publish macOS App
 
 on:
   workflow_dispatch:
@@ -29,9 +29,23 @@ jobs:
         run: |
           ditto -c -k --sequesterRsrc --keepParent dist/Choix_cocktails.app ChoixCocktails-macos.zip
 
-      - name: Upload artifact
-        uses: ./upload-artifact-3.2.1
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
         with:
-          name: macosbundle
-          path: ChoixCocktails-macos.zip
+          tag_name: macos-${{ github.run_id }}
+          release_name: 'Choix Cocktails macOS Build #${{ github.run_number }}'
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ChoixCocktails-macos.zip
+          asset_name: ChoixCocktails-macos.zip
+          asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
