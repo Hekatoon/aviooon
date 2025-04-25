@@ -30,8 +30,7 @@ jobs:
           ditto -c -k --sequesterRsrc --keepParent dist/Choix_cocktails.app ChoixCocktails-macos.zip
 
       - name: Upload artifact
-        # On pointe vers le dossier src de upload-artifact-3.2.1, là où se trouve action.yml
-        uses: ./upload-artifact-3.2.1/src
+        uses: ./upload-artifact-3.2.1
         with:
           name: choix_cocktails_macos
           path: ChoixCocktails-macos.zip
