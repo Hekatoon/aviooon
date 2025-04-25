@@ -1,5 +1,10 @@
 name: Build & Publish macOS App
 
+# >>> Ajout des permissions nécessaires <<<
+permissions:
+  contents: write
+  actions: read
+
 on:
   workflow_dispatch:
 
