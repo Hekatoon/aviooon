@@ -1,0 +1,1197 @@
+{
+  "Margarita": {
+    "alcohols": {
+      "Tequila": "50 ml",
+      "Triple sec": "25 ml"
+    },
+    "others": {
+      "Jus de citron vert": "25 ml",
+      "Sel": "Pour le bord"
+    }
+  },
+  "Mojito": {
+    "alcohols": {
+      "Rhum blanc": "50 ml"
+    },
+    "others": {
+      "Jus de citron vert": "30 ml",
+      "Feuilles de menthe": "6",
+      "Sucre": "2 c. à thé",
+      "Eau gazeuse": "Compléter"
+    }
+  },
+  "Cosmopolitan": {
+    "alcohols": {
+      "Vodka": "45 ml",
+      "Triple sec": "15 ml"
+    },
+    "others": {
+      "Jus de canneberge": "30 ml",
+      "Jus de citron vert": "10 ml"
+    }
+  },
+  "Pina Colada": {
+    "alcohols": {
+      "Rhum blanc": "50 ml"
+    },
+    "others": {
+      "Jus d'ananas": "75 ml",
+      "Crème de coco": "25 ml"
+    }
+  },
+  "Tequila Sunrise": {
+    "alcohols": {
+      "Tequila": "45 ml"
+    },
+    "others": {
+      "Jus d'orange": "90 ml",
+      "Grenadine": "15 ml"
+    }
+  },
+  "Bloody Mary": {
+    "alcohols": {
+      "Vodka": "45 ml"
+    },
+    "others": {
+      "Jus de tomate": "90 ml",
+      "Jus de citron": "15 ml",
+      "Sauce Worcestershire": "2 traits",
+      "Tabasco": "2 traits",
+      "Sel de céleri": "Pincée",
+      "Poivre": "Pincée"
+    }
+  },
+  "Negroni": {
+    "alcohols": {
+      "Gin": "30 ml",
+      "Campari": "30 ml",
+      "Vermouth doux": "30 ml"
+    },
+    "others": {}
+  },
+  "Old Fashioned": {
+    "alcohols": {
+      "Bourbon": "60 ml"
+    },
+    "others": {
+      "Sucre": "1 cube",
+      "Angostura": "2 traits",
+      "Zeste d'orange": "1"
+    }
+  },
+  "Manhattan": {
+    "alcohols": {
+      "Whisky de seigle": "50 ml",
+      "Vermouth doux": "20 ml"
+    },
+    "others": {
+      "Angostura": "2 traits",
+      "Cerise au marasquin": "1"
+    }
+  },
+  "Daiquiri": {
+    "alcohols": {
+      "Rhum blanc": "50 ml"
+    },
+    "others": {
+      "Jus de citron vert": "25 ml",
+      "Sirop de sucre": "15 ml"
+    }
+  },
+  "Whiskey Sour": {
+    "alcohols": {
+      "Bourbon": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "20 ml",
+      "Blanc d'œuf (optionnel)": "1"
+    }
+  },
+  "Sidecar": {
+    "alcohols": {
+      "Cognac": "40 ml",
+      "Triple sec": "20 ml"
+    },
+    "others": {
+      "Jus de citron": "20 ml"
+    }
+  },
+  "Mai Tai": {
+    "alcohols": {
+      "Rhum ambré": "30 ml",
+      "Rhum blanc": "30 ml",
+      "Triple sec": "15 ml"
+    },
+    "others": {
+      "Jus de citron vert": "15 ml",
+      "Orgeat": "15 ml"
+    }
+  },
+  "Long Island Iced Tea": {
+    "alcohols": {
+      "Vodka": "15 ml",
+      "Gin": "15 ml",
+      "Rhum blanc": "15 ml",
+      "Tequila": "15 ml",
+      "Triple sec": "15 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Coca-Cola": "Compléter"
+    }
+  },
+  "Moscow Mule": {
+    "alcohols": {
+      "Vodka": "50 ml"
+    },
+    "others": {
+      "Ginger beer": "Compléter",
+      "Jus de citron vert": "15 ml"
+    }
+  },
+  "Dark 'n' Stormy": {
+    "alcohols": {
+      "Rhum brun": "50 ml"
+    },
+    "others": {
+      "Ginger beer": "Compléter",
+      "Citron vert": "1 quartier"
+    }
+  },
+  "Sazerac": {
+    "alcohols": {
+      "Rye whiskey": "50 ml",
+      "Absinthe": "1 trait"
+    },
+    "others": {
+      "Sucre": "1 cube",
+      "Peychaud’s bitters": "3 traits",
+      "Zeste de citron": "1"
+    }
+  },
+  "Gin Fizz": {
+    "alcohols": {
+      "Gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "20 ml",
+      "Eau gazeuse": "Compléter"
+    }
+  },
+  "French 75": {
+    "alcohols": {
+      "Gin": "30 ml",
+      "Champagne": "60 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml",
+      "Sirop de sucre": "10 ml"
+    }
+  },
+  "Tom Collins": {
+    "alcohols": {
+      "Gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml",
+      "Eau gazeuse": "Compléter"
+    }
+  },
+  "Aperol Spritz": {
+    "alcohols": {
+      "Aperol": "60 ml",
+      "Prosecco": "90 ml"
+    },
+    "others": {
+      "Eau gazeuse": "30 ml",
+      "Tranche d'orange": "1"
+    }
+  },
+  "Caipirinha": {
+    "alcohols": {
+      "Cachaça": "50 ml"
+    },
+    "others": {
+      "Citron vert": "½, coupé",
+      "Sucre": "2 c. à thé"
+    }
+  },
+  "Paloma": {
+    "alcohols": {
+      "Tequila": "50 ml"
+    },
+    "others": {
+      "Jus de pamplemousse": "90 ml",
+      "Eau gazeuse": "Compléter",
+      "Citron vert": "1 quartier"
+    }
+  },
+  "Rob Roy": {
+    "alcohols": {
+      "Scotch whisky": "50 ml",
+      "Vermouth doux": "20 ml"
+    },
+    "others": {
+      "Angostura": "2 traits",
+      "Cerise au marasquin": "1"
+    }
+  },
+  "Espresso Martini": {
+    "alcohols": {
+      "Vodka": "45 ml",
+      "Liqueur de café": "15 ml"
+    },
+    "others": {
+      "Café espresso fraîchement préparé": "30 ml",
+      "Sirop de sucre": "10 ml"
+    }
+  },
+  "Mint Julep": {
+    "alcohols": {
+      "Bourbon": "60 ml"
+    },
+    "others": {
+      "Feuilles de menthe": "8",
+      "Sirop de sucre": "15 ml"
+    }
+  },
+  "Vesper": {
+    "alcohols": {
+      "Gin": "40 ml",
+      "Vodka": "20 ml",
+      "Lillet blanc": "10 ml"
+    },
+    "others": {}
+  },
+  "Sex on the Beach": {
+    "alcohols": {
+      "Vodka": "40 ml",
+      "Liqueur de pêche": "20 ml"
+    },
+    "others": {
+      "Jus d'orange": "40 ml",
+      "Jus de canneberge": "40 ml"
+    }
+  },
+  "Screwdriver": {
+    "alcohols": {
+      "Vodka": "50 ml"
+    },
+    "others": {
+      "Jus d'orange": "100 ml"
+    }
+  },
+  "White Russian": {
+    "alcohols": {
+      "Vodka": "50 ml",
+      "Liqueur de café": "20 ml"
+    },
+    "others": {
+      "Crème": "20 ml"
+    }
+  },
+  "Black Russian": {
+    "alcohols": {
+      "Vodka": "50 ml",
+      "Liqueur de café": "20 ml"
+    },
+    "others": {}
+  },
+  "Grasshopper": {
+    "alcohols": {
+      "Crème de menthe verte": "30 ml",
+      "Crème de cacao blanche": "30 ml"
+    },
+    "others": {
+      "Crème fraîche": "30 ml"
+    }
+  },
+  "Caipiroska": {
+    "alcohols": {
+      "Vodka": "50 ml"
+    },
+    "others": {
+      "Citron vert": "½, coupé",
+      "Sucre": "2 c. à thé"
+    }
+  },
+  "Pisco Sour": {
+    "alcohols": {
+      "Pisco": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "20 ml",
+      "Blanc d'œuf": "1"
+    }
+  },
+  "Bellini": {
+    "alcohols": {
+      "Purée de pêche": "30 ml",
+      "Prosecco": "Compléter"
+    },
+    "others": {}
+  },
+  "Kir Royal": {
+    "alcohols": {
+      "Crème de cassis": "15 ml",
+      "Champagne": "Compléter"
+    },
+    "others": {}
+  },
+  "Mimosa": {
+    "alcohols": {
+      "Champagne": "75 ml"
+    },
+    "others": {
+      "Jus d'orange": "75 ml"
+    }
+  },
+  "Champagne Cocktail": {
+    "alcohols": {
+      "Champagne": "Compléter"
+    },
+    "others": {
+      "Sucre": "1 cube",
+      "Angostura": "2 traits",
+      "Zeste de citron": "1"
+    }
+  },
+  "Harvey Wallbanger": {
+    "alcohols": {
+      "Vodka": "45 ml",
+      "Galliano": "15 ml"
+    },
+    "others": {
+      "Jus d'orange": "90 ml"
+    }
+  },
+  "Blue Lagoon": {
+    "alcohols": {
+      "Vodka": "45 ml",
+      "Blue Curaçao": "15 ml"
+    },
+    "others": {
+      "Limonade": "Compléter"
+    }
+  },
+  "Hurricane": {
+    "alcohols": {
+      "Rhum blanc": "30 ml",
+      "Rhum ambré": "30 ml",
+      "Rhum overproof": "15 ml"
+    },
+    "others": {
+      "Jus de fruits de la passion": "60 ml",
+      "Jus d'orange": "60 ml",
+      "Sirop de grenadine": "15 ml"
+    }
+  },
+  "Zombie": {
+    "alcohols": {
+      "Rhum blond": "25 ml",
+      "Rhum ambré": "25 ml",
+      "Rhum overproof": "25 ml"
+    },
+    "others": {
+      "Jus d'orange": "30 ml",
+      "Jus d'ananas": "30 ml",
+      "Grenadine": "15 ml",
+      "Sirop de sucre": "10 ml"
+    }
+  },
+  "Brandy Alexander": {
+    "alcohols": {
+      "Cognac": "30 ml",
+      "Crème de cacao": "30 ml"
+    },
+    "others": {
+      "Crème fraîche": "30 ml",
+      "Noix de muscade râpée": "Pour saupoudrer"
+    }
+  },
+  "Tequila Slammer": {
+    "alcohols": {
+      "Tequila": "25 ml",
+      "Soda": "25 ml"
+    },
+    "others": {}
+  },
+  "Clover Club": {
+    "alcohols": {
+      "Gin": "45 ml"
+    },
+    "others": {
+      "Purée de framboise": "15 ml",
+      "Jus de citron": "15 ml",
+      "Blanc d'œuf": "1"
+    }
+  },
+  "Stinger": {
+    "alcohols": {
+      "Cognac": "40 ml",
+      "Crème de menthe blanche": "20 ml"
+    },
+    "others": {}
+  },
+  "Rusty Nail": {
+    "alcohols": {
+      "Scotch whisky": "45 ml",
+      "Drambuie": "25 ml"
+    },
+    "others": {}
+  },
+  "Cuba Libre": {
+    "alcohols": {
+      "Rhum noir": "50 ml"
+    },
+    "others": {
+      "Coca-Cola": "Compléter",
+      "Citron vert": "1 quartier"
+    }
+  },
+  "Irish Coffee": {
+    "alcohols": {
+      "Irish whiskey": "40 ml"
+    },
+    "others": {
+      "Café chaud": "80 ml",
+      "Sucre": "1 c. à thé",
+      "Crème fraîche": "20 ml"
+    }
+  },
+  "Bramble": {
+    "alcohols": {
+      "Gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml",
+      "Crème de mûre": "15 ml"
+    }
+  },
+  "French Martini": {
+    "alcohols": {
+      "Vodka": "45 ml",
+      "Liqueur de framboise": "15 ml"
+    },
+    "others": {
+      "Purée d'ananas": "30 ml"
+    }
+  },
+  "Gold Rush": {
+    "alcohols": {
+      "Whisky américain": "50 ml"
+    },
+    "others": {
+      "Miel": "20 ml",
+      "Jus de citron": "20 ml"
+    }
+  },
+  "Brown Derby": {
+    "alcohols": {
+      "Bourbon": "45 ml"
+    },
+    "others": {
+      "Jus de pamplemousse": "30 ml",
+      "Miel": "15 ml"
+    }
+  },
+  "Aviation": {
+    "alcohols": {
+      "Gin": "45 ml",
+      "Maraschino": "15 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml",
+      "Crème de violette": "5 ml"
+    }
+  },
+  "Blood and Sand": {
+    "alcohols": {
+      "Scotch whisky": "25 ml",
+      "Vermouth doux": "25 ml",
+      "Cherry Heering": "25 ml"
+    },
+    "others": {
+      "Jus d'orange": "25 ml"
+    }
+  },
+  "Chartreuse Swizzle": {
+    "alcohols": {
+      "Chartreuse verte": "45 ml"
+    },
+    "others": {
+      "Jus d'ananas": "45 ml",
+      "Jus de citron vert": "15 ml"
+    }
+  },
+  "Ramos Gin Fizz": {
+    "alcohols": {
+      "Gin": "45 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml",
+      "Jus de lime": "15 ml",
+      "Sirop de sucre": "30 ml",
+      "Blanc d'œuf": "1",
+      "Crème": "30 ml",
+      "Eau gazeuse": "Compléter"
+    }
+  },
+  "Planter's Punch": {
+    "alcohols": {
+      "Rhum ambré": "50 ml"
+    },
+    "others": {
+      "Jus d'orange": "50 ml",
+      "Jus d'ananas": "25 ml",
+      "Grenadine": "10 ml",
+      "Angostura": "2 traits"
+    }
+  },
+  "Painkiller": {
+    "alcohols": {
+      "Rhum ambré": "60 ml"
+    },
+    "others": {
+      "Jus d'ananas": "90 ml",
+      "Crème de coco": "30 ml",
+      "Noix de muscade râpée": "Pour saupoudrer"
+    }
+  },
+  "Blue Hawaiian": {
+    "alcohols": {
+      "Rhum blanc": "30 ml",
+      "Blue Curaçao": "15 ml"
+    },
+    "others": {
+      "Jus d'ananas": "90 ml",
+      "Crème de coco": "30 ml"
+    }
+  },
+  "B-52": {
+    "alcohols": {
+      "Kahlúa": "20 ml",
+      "Baileys": "20 ml",
+      "Grand Marnier": "20 ml"
+    },
+    "others": {}
+  },
+  "Godfather": {
+    "alcohols": {
+      "Scotch whisky": "40 ml",
+      "Amaretto": "20 ml"
+    },
+    "others": {}
+  },
+  "Godmother": {
+    "alcohols": {
+      "Vodka": "40 ml",
+      "Amaretto": "20 ml"
+    },
+    "others": {}
+  },
+  "White Lady": {
+    "alcohols": {
+      "Gin": "40 ml",
+      "Triple sec": "20 ml"
+    },
+    "others": {
+      "Jus de citron": "20 ml",
+      "Blanc d'œuf": "1"
+    }
+  },
+  "Bronx": {
+    "alcohols": {
+      "Gin": "30 ml",
+      "Vermouth doux": "15 ml",
+      "Vermouth sec": "15 ml"
+    },
+    "others": {
+      "Jus d'orange": "30 ml"
+    }
+  },
+  "Ward 8": {
+    "alcohols": {
+      "Rye whiskey": "45 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml",
+      "Jus d'orange": "15 ml",
+      "Sirop grenadine": "10 ml"
+    }
+  },
+  "Fog Cutter": {
+    "alcohols": {
+      "Rhum blanc": "30 ml",
+      "Gin": "15 ml",
+      "Amaretto": "15 ml"
+    },
+    "others": {
+      "Jus d'orange": "30 ml",
+      "Jus de citron": "15 ml",
+      "Orgeat": "7 ml",
+      "Sherry": "15 ml"
+    }
+  },
+  "Jungle Bird": {
+    "alcohols": {
+      "Rhum noir": "45 ml",
+      "Campari": "15 ml"
+    },
+    "others": {
+      "Jus d'ananas": "45 ml",
+      "Jus de citron vert": "15 ml",
+      "Sirop de sucre": "10 ml"
+    }
+  },
+  "Pimm's Cup": {
+    "alcohols": {
+      "Pimm's No. 1": "50 ml"
+    },
+    "others": {
+      "Limonade": "Compléter",
+      "Fruits (concombre, fraises…)": "Pour garnir"
+    }
+  },
+  "Sloe Gin Fizz": {
+    "alcohols": {
+      "Sloe gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml",
+      "Eau gazeuse": "Compléter"
+    }
+  },
+  "Toronto": {
+    "alcohols": {
+      "Rye whiskey": "60 ml",
+      "Liqueur Fernet-Branca": "15 ml"
+    },
+    "others": {
+      "Sirop de sucre": "10 ml",
+      "Angostura": "2 traits"
+    }
+  },
+  "Vieux Carré": {
+    "alcohols": {
+      "Rye whiskey": "30 ml",
+      "Cognac": "30 ml",
+      "Vermouth doux": "30 ml"
+    },
+    "others": {
+      "Bénédictine": "10 ml",
+      "Angostura": "2 traits",
+      "Peychaud’s bitters": "2 traits"
+    }
+  },
+  "Paper Plane": {
+    "alcohols": {
+      "Bourbon": "30 ml",
+      "Aperol": "30 ml",
+      "Amaro Nonino": "30 ml"
+    },
+    "others": {}
+  },
+  "Scofflaw": {
+    "alcohols": {
+      "Rye whiskey": "45 ml",
+      "Lillet blanc": "15 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml",
+      "Grenadine": "7 ml",
+      "Peychaud’s bitters": "2 traits"
+    }
+  },
+  "Americano": {
+    "alcohols": {
+      "Campari": "30 ml",
+      "Vermouth doux": "30 ml"
+    },
+    "others": {
+      "Eau gazeuse": "Compléter",
+      "Tranche d'orange": "1"
+    }
+  },
+  "El Diablo": {
+    "alcohols": {
+      "Tequila": "45 ml",
+      "Crème de cassis": "15 ml"
+    },
+    "others": {
+      "Jus de citron vert": "15 ml",
+      "Ginger ale": "Compléter"
+    }
+  },
+  "Pornstar Martini": {
+    "alcohols": {
+      "Vodka": "40 ml",
+      "Liqueur de fruit de la passion": "20 ml"
+    },
+    "others": {
+      "Purée de passion": "20 ml",
+      "Prosecco (à côté)": "30 ml"
+    }
+  },
+  "Japanese Slipper": {
+    "alcohols": {
+      "Gin": "30 ml",
+      "Midori": "30 ml"
+    },
+    "others": {
+      "Triple sec": "15 ml",
+      "Jus de citron": "15 ml"
+    }
+  },
+  "Singapore Sling": {
+    "alcohols": {
+      "Gin": "30 ml",
+      "Cherry Heering": "15 ml",
+      "Bénédictine": "7 ml"
+    },
+    "others": {
+      "Jus d'ananas": "90 ml",
+      "Jus de citron": "15 ml",
+      "Grenadine": "10 ml",
+      "Angostura": "1 trait",
+      "Coca-Cola": "Un trait"
+    }
+  },
+  "Tuxedo": {
+    "alcohols": {
+      "Gin": "45 ml",
+      "Lillet blanc": "15 ml"
+    },
+    "others": {
+      "Maraschino": "5 ml",
+      "Angostura": "2 traits"
+    }
+  },
+  "Boulevardier": {
+    "alcohols": {
+      "Bourbon": "30 ml",
+      "Campari": "30 ml",
+      "Vermouth doux": "30 ml"
+    },
+    "others": {}
+  },
+  "French Connection": {
+    "alcohols": {
+      "Cognac": "35 ml",
+      "Amaretto": "35 ml"
+    },
+    "others": {}
+  },
+  "Blue Moon": {
+    "alcohols": {
+      "Gin": "45 ml",
+      "Crème de violette": "15 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml"
+    }
+  },
+  "Fitzgerald": {
+    "alcohols": {
+      "Gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml",
+      "Angostura": "2 traits"
+    }
+  },
+  "Hemingway Daiquiri": {
+    "alcohols": {
+      "Rhum blanc": "50 ml",
+      "Maraschino": "15 ml"
+    },
+    "others": {
+      "Jus de pamplemousse": "25 ml",
+      "Jus de citron vert": "15 ml"
+    }
+  },
+  "Southside": {
+    "alcohols": {
+      "Gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml",
+      "Feuilles de menthe": "6"
+    }
+  },
+  "Last Word": {
+    "alcohols": {
+      "Gin": "22 ml",
+      "Green Chartreuse": "22 ml",
+      "Maraschino": "22 ml",
+      "Jus de citron vert": "22 ml"
+    },
+    "others": {}
+  },
+  "Corpse Reviver #2": {
+    "alcohols": {
+      "Gin": "22 ml",
+      "Lillet blanc": "22 ml",
+      "Cointreau": "22 ml"
+    },
+    "others": {
+      "Jus de citron": "22 ml",
+      "Absinthe": "1 trait"
+    }
+  },
+  "Pegu Club": {
+    "alcohols": {
+      "Gin": "30 ml",
+      "Curaçao": "15 ml"
+    },
+    "others": {
+      "Jus de citron vert": "15 ml",
+      "Angostura": "2 traits"
+    }
+  },
+  "Bees Knees": {
+    "alcohols": {
+      "Gin": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Miel": "20 ml"
+    }
+  },
+  "Martinez": {
+    "alcohols": {
+      "Gin Old Tom": "45 ml",
+      "Vermouth doux": "45 ml"
+    },
+    "others": {
+      "Maraschino": "5 ml",
+      "Angostura": "1 trait"
+    }
+  },
+  "Brooklyn": {
+    "alcohols": {
+      "Rye whiskey": "45 ml",
+      "Vermouth sec": "15 ml"
+    },
+    "others": {
+      "Maraschino": "7 ml",
+      "Amer Picon": "7 ml"
+    }
+  },
+  "Bobby Burns": {
+    "alcohols": {
+      "Scotch whisky": "45 ml",
+      "Vermouth doux": "25 ml"
+    },
+    "others": {
+      "Bénédictine": "5 ml"
+    }
+  },
+  "John Collins": {
+    "alcohols": {
+      "Bourbon": "45 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml",
+      "Eau gazeuse": "Compléter"
+    }
+  },
+  "Monkey Gland": {
+    "alcohols": {
+      "Gin": "45 ml",
+      "Absinthe": "2 traits"
+    },
+    "others": {
+      "Jus d'orange": "45 ml",
+      "Grenadine": "5 ml"
+    }
+  },
+  "Sea Breeze": {
+    "alcohols": {
+      "Vodka": "40 ml"
+    },
+    "others": {
+      "Jus de canneberge": "60 ml",
+      "Jus de pamplemousse": "30 ml"
+    }
+  },
+  "Bay Breeze": {
+    "alcohols": {
+      "Vodka": "40 ml"
+    },
+    "others": {
+      "Jus de canneberge": "60 ml",
+      "Jus d'ananas": "30 ml"
+    }
+  },
+  "Woo Woo": {
+    "alcohols": {
+      "Vodka": "40 ml",
+      "Liqueur de pêche": "20 ml"
+    },
+    "others": {
+      "Jus de canneberge": "40 ml"
+    }
+  },
+  "Kamikaze": {
+    "alcohols": {
+      "Vodka": "20 ml",
+      "Triple sec": "20 ml"
+    },
+    "others": {
+      "Jus de citron vert": "20 ml"
+    }
+  },
+  "Jägerbomb": {
+    "alcohols": {
+      "Jägermeister": "50 ml"
+    },
+    "others": {
+      "Red Bull": "Compléter"
+    }
+  },
+  "Lemon Drop": {
+    "alcohols": {
+      "Vodka citron": "30 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml",
+      "Sucre": "Pour bord"
+    }
+  },
+  "Mind Eraser": {
+    "alcohols": {
+      "Vodka": "20 ml",
+      "Kahlúa": "20 ml"
+    },
+    "others": {
+      "Eau gazeuse": "20 ml"
+    }
+  },
+  "Cement Mixer": {
+    "alcohols": {
+      "Baileys": "30 ml"
+    },
+    "others": {
+      "Jus de citron": "15 ml"
+    }
+  },
+  "Prairie Fire": {
+    "alcohols": {
+      "Tequila": "20 ml"
+    },
+    "others": {
+      "Tabasco": "2–3 traits"
+    }
+  },
+  "Baby Guinness": {
+    "alcohols": {
+      "Kahlúa": "20 ml",
+      "Baileys": "10 ml"
+    },
+    "others": {}
+  },
+  "Irish Car Bomb": {
+    "alcohols": {
+      "Irish whiskey": "20 ml",
+      "Baileys": "20 ml"
+    },
+    "others": {
+      "Guinness": "100 ml"
+    }
+  },
+  "Flaming Dr Pepper": {
+    "alcohols": {
+      "Amaretto": "20 ml",
+      "Vodka": "10 ml"
+    },
+    "others": {
+      "Bière": "100 ml"
+    }
+  },
+  "B-53": {
+    "alcohols": {
+      "Kahlúa": "20 ml",
+      "Baileys": "20 ml",
+      "Cointreau": "20 ml"
+    },
+    "others": {}
+  },
+  "Spiced Rum Punch": {
+    "alcohols": {
+      "Rhum épicé": "50 ml"
+    },
+    "others": {
+      "Jus d'orange": "50 ml",
+      "Jus d'ananas": "50 ml",
+      "Grenadine": "10 ml"
+    }
+  },
+  "Malibu Sunset": {
+    "alcohols": {
+      "Malibu (rhum coco)": "50 ml"
+    },
+    "others": {
+      "Jus d'ananas": "75 ml",
+      "Jus de canneberge": "25 ml",
+      "Grenadine": "10 ml"
+    }
+  },
+  "Mezcal Old Fashioned": {
+    "alcohols": {
+      "Mezcal": "45 ml"
+    },
+    "others": {
+      "Sucre": "1 cube",
+      "Angostura": "2 traits",
+      "Zeste d'orange": "1"
+    }
+  },
+  "Canadian Whisky Sour": {
+    "alcohols": {
+      "Canadian whisky": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "20 ml",
+      "Blanc d'œuf (optionnel)": "1"
+    }
+  },
+  "Japanese Highball": {
+    "alcohols": {
+      "Whisky japonais": "50 ml"
+    },
+    "others": {
+      "Eau gazeuse": "100 ml",
+      "Quartier de citron": "1"
+    }
+  },
+  "Armagnac Sidecar": {
+    "alcohols": {
+      "Armagnac": "40 ml",
+      "Triple sec": "20 ml"
+    },
+    "others": {
+      "Jus de citron": "20 ml"
+    }
+  },
+  "Jack Rose": {
+    "alcohols": {
+      "Calvados": "45 ml"
+    },
+    "others": {
+      "Grenadine": "15 ml",
+      "Jus de citron": "25 ml"
+    }
+  },
+  "Soju Sour": {
+    "alcohols": {
+      "Soju": "60 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "15 ml"
+    }
+  },
+  "Saké Martini": {
+    "alcohols": {
+      "Saké": "60 ml",
+      "Gin": "10 ml"
+    },
+    "others": {}
+  },
+  "Baijiu Sour": {
+    "alcohols": {
+      "Baijiu": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "20 ml"
+    }
+  },
+  "Vermouth Rouge & Soda": {
+    "alcohols": {
+      "Vermouth rouge": "60 ml"
+    },
+    "others": {
+      "Eau gazeuse": "90 ml",
+      "Tranche d'orange": "1"
+    }
+  },
+  "Vermouth Blanc & Tonic": {
+    "alcohols": {
+      "Vermouth blanc": "60 ml"
+    },
+    "others": {
+      "Tonic": "90 ml",
+      "Quartier de citron": "1"
+    }
+  },
+  "Limoncello Spritz": {
+    "alcohols": {
+      "Limoncello": "50 ml",
+      "Prosecco": "70 ml"
+    },
+    "others": {
+      "Eau gazeuse": "30 ml",
+      "Zeste de citron": "1"
+    }
+  },
+  "St-Germain Spritz": {
+    "alcohols": {
+      "St-Germain (liqueur de sureau)": "50 ml",
+      "Prosecco": "60 ml"
+    },
+    "others": {
+      "Eau gazeuse": "30 ml",
+      "Quartier de citron vert": "1"
+    }
+  },
+  "Sambuca Straight": {
+    "alcohols": {
+      "Sambuca": "50 ml"
+    },
+    "others": {
+      "Grains de café": "3"
+    }
+  },
+  "Brandy Sour": {
+    "alcohols": {
+      "Brandy": "50 ml"
+    },
+    "others": {
+      "Jus de citron": "25 ml",
+      "Sirop de sucre": "20 ml",
+      "Blanc d'œuf (optionnel)": "1"
+    }
+  },
+  "Reposado Old Fashioned": {
+    "alcohols": {
+      "Tequila reposado": "60 ml"
+    },
+    "others": {
+      "Sucre": "1 cube",
+      "Angostura": "2 traits",
+      "Zeste d'orange": "1"
+    }
+  },
+  "Añejo Manhattan": {
+    "alcohols": {
+      "Tequila añejo": "50 ml",
+      "Vermouth doux": "20 ml"
+    },
+    "others": {
+      "Angostura": "2 traits",
+      "Cerise au marasquin": "1"
+    }
+  }
+}
